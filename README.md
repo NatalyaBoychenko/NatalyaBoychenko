@@ -20,5 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" title="trello" width="40" height="40"/>&nbsp;
           
           
-          
+ ### Statistics         
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatalyaBoychenko&theme=default)         
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NatalyaBoychenko&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatalyaBoychenko&theme=default)
