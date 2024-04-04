@@ -31,7 +31,7 @@
 [<img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png"  title="github" width="180" height="60"/>](https://github.com/NatalyaBoychenko/CurrencyTelegramBot)       
 
 This Telegram Bot shows the current information about curency exchange rate (USD/EUR to UAN). It connects to 3 different ukrainian banks - PrivatBank, MonoBank, NBU and read the information from bank's json files. The user can choose options according to his widhes: choose the accuracy of the exchange rate, bank, currency, language, and also enable notifications at a convenient time for each day.
-Technologies, that were used in this project:
+#### Technologies, that were used in this project:
 Stream API, Lombok, Gson, Jsoup, ResourceBundle, Hppt
 
 
@@ -39,5 +39,5 @@ Stream API, Lombok, Gson, Jsoup, ResourceBundle, Hppt
 [<img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png"  title="github" width="180" height="60"/>]([https://github.com/NatalyaBoychenko/CurrencyTelegramBot](https://github.com/NatalyaBoychenko/Employee_Management_System_App))     
 
 The project is based on Spring MVC CRUD technology. Here is present Web UI, where we can get list of employees from database, find concrete employee by id, add new employee, update and delete existing employee.
-Technologies, that were used in this project:
+#### Technologies, that were used in this project:
 Spring Framework, Thymeleaf, Lombok, HTML, CSS, MySQL
