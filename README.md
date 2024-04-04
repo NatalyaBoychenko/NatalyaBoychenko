@@ -34,7 +34,7 @@ This Telegram Bot shows the current information about curency exchange rate (USD
 #### Technologies, that were used in this project:
 Stream API, Lombok, Gson, Jsoup, ResourceBundle, Hppt
 
-<img src="https://github.com/NatalyaBoychenko/NatalyaBoychenko/blob/main/bot.jpg" title="bot1"/>&nbsp;
+<img src="https://github.com/NatalyaBoychenko/NatalyaBoychenko/blob/main/bot.jpg" title="bot"/>&nbsp;
 
 
 ### Employee Management System
@@ -43,3 +43,5 @@ Stream API, Lombok, Gson, Jsoup, ResourceBundle, Hppt
 The project is based on Spring MVC CRUD technology. Here is present Web UI, where we can get list of employees from database, find concrete employee by id, add new employee, update and delete existing employee.
 #### Technologies, that were used in this project:
 Spring Framework, Thymeleaf, Lombok, HTML, CSS, MySQL
+
+<img src="https://github.com/NatalyaBoychenko/NatalyaBoychenko/blob/main/employees.jpg" title="employees"/>&nbsp;
