@@ -30,7 +30,7 @@
 ### Currency Telegram Bot
 [<img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png"  title="github" width="180" height="60"/>](https://github.com/NatalyaBoychenko/CurrencyTelegramBot)       
 
- <img src="![image](https://github.com/NatalyaBoychenko/NatalyaBoychenko/assets/123556403/4269ee96-be21-4119-aa60-91c2d18b1031)
+ <img src="[![image](https://github.com/NatalyaBoychenko/NatalyaBoychenko/assets/123556403/4269ee96-be21-4119-aa60-91c2d18b1031)](https://github.com/NatalyaBoychenko/CurrencyTelegramBot/blob/main/src/main/resources/Pictures/greeting.jpg?raw=true)
 " title="java" width="40" height="40"/>&nbsp;
   <img src="https://mail.google.com/mail/u/0?ui=2&ik=daf0a821eb&attid=0.2&permmsgid=msg-a:r1337990619495841656&th=18ea859eb2b63016&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-rbkAi8F1p8mpo6ypz966lO_iLM0mlTwqokCvfIojtN9f5ubJmoI6lcvJHf0kPqmDYt1tdQN6DEV21hu7AWs34ayZy2aEV285Fh0JLFH39x6odmttxgsMxvtA&disp=emb&realattid=ii_lul0fvmo1" title="java" width="40" height="40"/>
 
