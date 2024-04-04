@@ -1,5 +1,5 @@
-### Hi 👋, I'm Natalia!
-# A passionate Java Software Engineer
+# Hi 👋, I'm Natalia!
+## A passionate Java Software Engineer
 
 
 - 🌱 I’m currently learning Java, Databases, Stping Framework
