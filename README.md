@@ -28,5 +28,5 @@
 ## My projects
 
 ### Currency Telegram Bot
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />](https://github.com/NatalyaBoychenko/CurrencyTelegramBot)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  title="github" width="40" height="40"/>](https://github.com/NatalyaBoychenko/CurrencyTelegramBot)
 
