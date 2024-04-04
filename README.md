@@ -30,8 +30,9 @@
 ### Currency Telegram Bot
 [<img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png"  title="github" width="180" height="60"/>](https://github.com/NatalyaBoychenko/CurrencyTelegramBot)       
 
-![bot2](https://github.com/NatalyaBoychenko/NatalyaBoychenko/assets/123556403/fb7d77ca-5239-433f-a2b3-ccf749861ef4) width="40" height="40"&nbsp;
-![bot3](https://github.com/NatalyaBoychenko/NatalyaBoychenko/assets/123556403/b6acd893-af25-4b47-961b-e3538d908313)
+ <img src="![image](https://github.com/NatalyaBoychenko/NatalyaBoychenko/assets/123556403/4269ee96-be21-4119-aa60-91c2d18b1031)
+" title="java" width="40" height="40"/>&nbsp;
+  <img src="https://mail.google.com/mail/u/0?ui=2&ik=daf0a821eb&attid=0.2&permmsgid=msg-a:r1337990619495841656&th=18ea859eb2b63016&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-rbkAi8F1p8mpo6ypz966lO_iLM0mlTwqokCvfIojtN9f5ubJmoI6lcvJHf0kPqmDYt1tdQN6DEV21hu7AWs34ayZy2aEV285Fh0JLFH39x6odmttxgsMxvtA&disp=emb&realattid=ii_lul0fvmo1" title="java" width="40" height="40"/>
 
 This Telegram Bot shows the current information about curency exchange rate (USD/EUR to UAN). It connects to 3 different ukrainian banks - PrivatBank, MonoBank, NBU and read the information from bank's json files. The user can choose options according to his widhes: choose the accuracy of the exchange rate, bank, currency, language, and also enable notifications at a convenient time for each day.
 Technologies, that were used in this project:
