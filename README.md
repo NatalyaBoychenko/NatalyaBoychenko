@@ -33,7 +33,8 @@
 This Telegram Bot shows the current information about curency exchange rate (USD/EUR to UAN). It connects to 3 different ukrainian banks - PrivatBank, MonoBank, NBU and read the information from bank's json files. The user can choose options according to his widhes: choose the accuracy of the exchange rate, bank, currency, language, and also enable notifications at a convenient time for each day.
 #### Technologies, that were used in this project:
 Stream API, Lombok, Gson, Jsoup, ResourceBundle, Hppt
-<img src="https://github.com/NatalyaBoychenko/NatalyaBoychenko/blob/main/bot2.JPG" title="bot1" width="400" height="900"/>&nbsp;
+
+<img src="https://github.com/NatalyaBoychenko/NatalyaBoychenko/blob/main/bot.jpg" title="bot1"/>&nbsp;
 
 
 ### Employee Management System
