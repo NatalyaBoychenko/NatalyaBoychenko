@@ -38,7 +38,7 @@ Stream API, Lombok, Gson, Jsoup, ResourceBundle, Hppt
 
 
 ### Employee Management System
-[<img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png"  title="github" width="180" height="60"/>]([https://github.com/NatalyaBoychenko/CurrencyTelegramBot](https://github.com/NatalyaBoychenko/Employee_Management_System_App))     
+[<img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png"  title="github" width="180" height="60"/>](https://github.com/NatalyaBoychenko/CurrencyTelegramBot)(https://github.com/NatalyaBoychenko/Employee_Management_System_App))     
 
 The project is based on Spring MVC CRUD technology. Here is present Web UI, where we can get list of employees from database, find concrete employee by id, add new employee, update and delete existing employee.
 #### Technologies, that were used in this project:
